@@ -1,0 +1,2 @@
+cinst GoogleChrome 
+cinst Firefox 
