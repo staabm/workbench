@@ -1,0 +1,2 @@
+cinst msysgit
+cinst githubforwindows
